@@ -4,6 +4,7 @@ for i in range(int(input())):
     print(i)
 
 try:
-    1 / 0
+    a = [3,4,5,6]
+    a = sorted(a)
 except:
     pass
