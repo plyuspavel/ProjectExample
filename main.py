@@ -1,7 +1,7 @@
 import numpy
 
 for i in range(int(input())):
-    print(i ** 3)
+    print(i)
 
 try:
     1 / 0
