@@ -3,7 +3,8 @@ import numpy
 for i in range(int(input())):
     print(i)
 
-    
+2
+
 try:
     a = [3,4,5,6]
     a = sorted(a)
